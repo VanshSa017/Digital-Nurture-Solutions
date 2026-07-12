@@ -1,2 +1,1 @@
-"Cognizant-DeepSkilling" 
-"# Digital-Nurture-Solutions" 
+Cognizant Digital-Nurture-Solutions
